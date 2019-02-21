@@ -1,0 +1,13 @@
+{
+  "name": "Analytics",
+  "version": "1.0.0",
+  "description": "link analytics",
+  "author": "Sharkbyte",
+  "main": "al.node.js",
+  "scripts": {
+    "start": "node al.node.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
