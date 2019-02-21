@@ -1,5 +1,6 @@
 # DOCKER_Sharkbyte-link-analytics
 - [ON DOCKER HUB](https://hub.docker.com/r/shark2byte/sharkbyte-link-analytics-and-counter)
+- [LICENSE](https://github.com/Sharkbyteprojects/DOCKER_Sharkbyte-link-analytics/blob/master/LICENSE)
 
 ---
 ## Example:
